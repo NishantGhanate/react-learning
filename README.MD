@@ -14,3 +14,4 @@ Thanks to my friend who motivated me to learn react : https://github.com/Sandeep
 
 > 2 &nbsp; [card-default-props](https://github.com/NishantGhanate/react-learning/tree/main/card-default-prop)
 
+> 3 &nbsp; [hoc-menu](https://github.com/NishantGhanate/react-learning/tree/main/hoc-menu)
