@@ -19,3 +19,5 @@ Thanks to my friend who motivated me to learn react : https://github.com/Sandeep
 > 4 &nbsp; [component-tree](https://github.com/NishantGhanate/react-learning/tree/main/component-tree)
 
 > 5 &nbsp; [context-app](https://github.com/NishantGhanate/react-learning/tree/main/context-app)
+
+> 6 &nbsp; [speed-typing-game](https://github.com/NishantGhanate/react-learning/tree/main/speed-typing-game)
