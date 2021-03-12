@@ -21,3 +21,7 @@ Thanks to my friend who motivated me to learn react : https://github.com/Sandeep
 > 5 &nbsp; [context-app](https://github.com/NishantGhanate/react-learning/tree/main/context-app)
 
 > 6 &nbsp; [speed-typing-game](https://github.com/NishantGhanate/react-learning/tree/main/speed-typing-game)
+
+> 7 &nbsp; [router-app](https://github.com/NishantGhanate/react-learning/tree/main/router-app)
+
+> 8 &nbsp; [pics-cart](https://github.com/NishantGhanate/react-learning/tree/main/pics-cart)
