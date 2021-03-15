@@ -25,3 +25,5 @@ Thanks to my friend who motivated me to learn react : https://github.com/Sandeep
 > 7 &nbsp; [router-app](https://github.com/NishantGhanate/react-learning/tree/main/router-app)
 
 > 8 &nbsp; [pics-cart](https://github.com/NishantGhanate/react-learning/tree/main/pics-cart)
+
+> 9 &nbsp; [pics-cart](https://github.com/NishantGhanate/react-learning/tree/main/todo-list)
